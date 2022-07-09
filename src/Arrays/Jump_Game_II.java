@@ -16,7 +16,7 @@
  *
  */
 
-package DSA.Array;
+package Arrays;
 
 public class Jump_Game_II {
     public static void main(String[] args) {
@@ -37,5 +37,3 @@ public class Jump_Game_II {
         return j;
     }
 }
-
-// Time Complexity - O(n)

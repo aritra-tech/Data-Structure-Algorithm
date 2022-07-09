@@ -1,4 +1,4 @@
-package DSA.Searching;
+package Searching;
 
 
 

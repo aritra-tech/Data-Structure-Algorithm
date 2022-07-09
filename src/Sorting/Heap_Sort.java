@@ -1,4 +1,4 @@
-package DSA.Sorting;
+package Sorting;
 
 public class Heap_Sort {
     public static void main(String args[]) {
