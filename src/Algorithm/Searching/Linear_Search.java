@@ -1,6 +1,6 @@
-//Question: Search an Element in the array using Linear Search Technique
+//Question: Search an Element in the DSA.array using Linear Search Technique
 
-package DSA.Searching;
+package Algorithm.Searching;
 
 public class Linear_Search {
     public static void main(String[] args) {

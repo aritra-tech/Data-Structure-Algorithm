@@ -2,7 +2,7 @@
 /**
  * <br> Problem Statement :
  *
- * Given an array (or string), the task is to reverse the array/string.
+ * Given an DSA.array (or string), the task is to reverse the DSA.array/string.
  *
  * Example 1 :
  *
@@ -13,7 +13,7 @@
  *
  */
 
-package Arrays;
+package Algorithm.Arrays.Reverse_an_array;
 
 import java.util.Arrays;
 public class Reverse_array {

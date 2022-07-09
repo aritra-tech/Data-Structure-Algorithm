@@ -1,4 +1,4 @@
-package Sorting;
+package Algorithm.Sorting;
 
 public class Heap_Sort {
     public static void main(String args[]) {
@@ -8,7 +8,7 @@ public class Heap_Sort {
         Heap_Sort hs = new Heap_Sort();
         hs.sort(arr);
 
-        System.out.println("Sorted array is");
+        System.out.println("Sorted DSA.array is");
         printArray(arr);
     }
 
@@ -22,7 +22,7 @@ public class Heap_Sort {
     public void sort(int arr[]) {
         int n = arr.length;
 
-        // Build heap (rearrange array)
+        // Build heap (rearrange DSA.array)
         for (int i = n / 2 - 1; i >= 0; i--)
             heapify(arr, n, i);
 

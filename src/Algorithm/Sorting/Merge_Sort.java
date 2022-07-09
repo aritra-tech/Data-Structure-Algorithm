@@ -1,15 +1,15 @@
-package Sorting;
+package Algorithm.Sorting;
 
 import java.util.Arrays;
 
 public class Merge_Sort {
     public static void main(String[] args) {
         int arr[] = { 64, 34, 25, 12, 22, 11, 90 };
-        System.out.println("Array before Sorting: " + Arrays.toString(arr));
+        System.out.println("Array before DSA.Sorting: " + Arrays.toString(arr));
 
         int n = arr.length;
         sort(arr, 0, n - 1);
-        System.out.println("Array after Sorting: " + Arrays.toString(arr));
+        System.out.println("Array after DSA.Sorting: " + Arrays.toString(arr));
     }
 
     static void sort(int arr[], int l, int r) {
@@ -23,14 +23,14 @@ public class Merge_Sort {
     }
 
     static void merge(int arr[], int l, int mid, int r) {
-        // create a temporary array to store the merged array
+        // create a temporary DSA.array to store the merged DSA.array
         int temp[] = new int[r - l + 1];
 
-        // create pointers to the original array
+        // create pointers to the original DSA.array
         int i = l;
         int j = mid + 1;
 
-        // create pointer to the temporary array
+        // create pointer to the temporary DSA.array
         int k = 0;
 
         // iterate through the subarrays until one of them gets exhausted
@@ -65,7 +65,7 @@ public class Merge_Sort {
             }
         }
 
-        // copy temp to original array
+        // copy temp to original DSA.array
         for (i = l, k = 0; i <= r; i++, k++)
             arr[i] = temp[k];
     }

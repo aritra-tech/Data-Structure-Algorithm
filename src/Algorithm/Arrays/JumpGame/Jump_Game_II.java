@@ -1,8 +1,8 @@
 /**
  * <br> Problem Statement :
  *
- * Given an array of non-negative integers nums, you are initially positioned at the first index of the array.
- * Each element in the array represents your maximum jump length at that position.
+ * Given an DSA.array of non-negative integers nums, you are initially positioned at the first index of the DSA.array.
+ * Each element in the DSA.array represents your maximum jump length at that position.
  * Your goal is to reach the last index in the minimum number of jumps.
  * You can assume that you can always reach the last index.
  *
@@ -16,7 +16,7 @@
  *
  */
 
-package Arrays;
+package Algorithm.Arrays.JumpGame;
 
 public class Jump_Game_II {
     public static void main(String[] args) {

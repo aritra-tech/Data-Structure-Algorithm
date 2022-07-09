@@ -1,4 +1,4 @@
-package Searching;
+package Algorithm.Searching;
 
 
 

@@ -1,15 +1,15 @@
-package Sorting;
+package Algorithm.Sorting;
 
 import java.util.Arrays;
 
 public class Quick_Sort {
     public static void main(String[] args) {
         int arr[] = { 64, 34, 25, 12, 22, 11, 90 };
-        System.out.println("Array before Sorting: " + Arrays.toString(arr));
+        System.out.println("Array before DSA.Sorting: " + Arrays.toString(arr));
 
         int n = arr.length;
         quickSort(arr, 0, n - 1);
-        System.out.println("Array after Sorting: " + Arrays.toString(arr));
+        System.out.println("Array after DSA.Sorting: " + Arrays.toString(arr));
     }
 
     public static void quickSort(int arr[], int l, int h) {
