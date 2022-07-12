@@ -50,6 +50,12 @@ git push origin YourBranchName
 
 **10.** **Congratulations!** Sit and relax, you've made your contribution to [Data-Structures-and-Algorithms](https://github.com/aritra-tech/Data-Structure-Algorithm/pulls) project.
 
+## 💥 Rules to contribute to this repo
+
+- You can write solutions in Java/C/C++.
+- Follow the file/folder naming convention for all your pull requests.
+- While adding any program it should be inside its appropriate directory.
+
 ## 💥 Issues:
 For major changes, you are welcomed to open an issue  about what you would like to contribute. Enhancements will be appreciated.
 
