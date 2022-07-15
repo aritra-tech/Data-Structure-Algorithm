@@ -1,4 +1,4 @@
-package Algorithm.Searching;
+package Algorithm.Searching.BinarySearch;
 
 
 
