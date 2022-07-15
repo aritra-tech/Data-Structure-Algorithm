@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the Existing [Issues](https://github.com/aritra-tech/Data-Structures-and-Algorithm/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/aritra-tech/Data-Structure-Algorithm/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
@@ -17,15 +17,17 @@ Click on the <a href="https://github.com/aritra-tech/Data-Structure-Algorithm"><
 **2.** Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/Data-Structure-and-Algorithms
+git clone https://github.com/<your-github-username>/Data-Structure-Algorithm
 ```
 
 **3.** Navigate to the project directory.
 
 ```bash
-cd Data-Structure-and-Algorithms
+cd Data-Structure-Algorithm
 ```
+
 **5.** Create a new branch:
+
 ```bash
 git checkout -b YourBranchName
 ```
@@ -37,6 +39,7 @@ git checkout -b YourBranchName
 ```bash
 git add .
 ```
+
 ```bash
 git commit -m "<your_commit_message>"
 ```
@@ -46,9 +49,10 @@ git commit -m "<your_commit_message>"
 ```bash
 git push origin YourBranchName
 ```
+
 **9.** Create a [PR](https://github.com/aritra-tech/Data-Structure-Algorithm/pulls) !
 
-**10.** **Congratulations!** Sit and relax, you've made your contribution to [Data-Structures-and-Algorithms](https://github.com/aritra-tech/Data-Structure-Algorithm/pulls) project.
+**10.** **Congratulations!** Sit and relax, you've made your contribution to [Data-Structure-Algorithm](https://github.com/aritra-tech/Data-Structure-Algorithm/pulls) project.
 
 ## 💥 Rules to contribute to this repo
 
@@ -57,7 +61,8 @@ git push origin YourBranchName
 - While adding any program it should be inside its appropriate directory.
 
 ## 💥 Issues:
-For major changes, you are welcomed to open an issue  about what you would like to contribute. Enhancements will be appreciated.
+
+For major changes, you are welcomed to open an issue about what you would like to contribute. Enhancements will be appreciated.
 
 #### All the Best!🥇
 
