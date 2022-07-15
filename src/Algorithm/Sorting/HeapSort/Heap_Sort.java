@@ -1,4 +1,4 @@
-package Algorithm.Sorting;
+package Algorithm.Sorting.HeapSort;
 
 public class Heap_Sort {
     public static void main(String args[]) {
