@@ -7,7 +7,7 @@
 <a href="https://github.com/aritra-tech/Data-Structure-Algorithm/network/members"><img src="https://img.shields.io/github/forks/aritra-tech/Data-Structure-Algorithm" alt="Forks Badge"/></a>
 
 
-This repository contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is to help students who are learning Data Structures and Algorithms or preparing for an interview. This contains questions from popular coding platforms including LeetCode, GeeksforGeeks etc.
+This repository contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is to help students who are learning Data Structures and Algorithms or preparing for an interview. This contains questions from popular coding platforms including [LeetCode](https://leetcode.com/problemset/all/) , [GeeksforGeeks](https://practice.geeksforgeeks.org/) etc.
 
 </div>
 
