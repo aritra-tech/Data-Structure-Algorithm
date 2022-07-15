@@ -23,6 +23,18 @@ Don't forget to follow [Contribution Guidelines](CONTRIBUTING.md)
 
 ## Connect with me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aritra-das-/)](https://www.linkedin.com/in/aritra-das-/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aritratech) 
 
+<h1 align=center> Projects Contributors ✨ </h1>
+  
+  
+  <br>
+  
+  
+  <a href="https://github.com/aritra-tech/Data-Structure-Algorithm/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aritra-tech/Data-Structure-Algorithm" />
+</a>
+  
+  <br>
+  
 ## Give it a 🌟 if you ❤ this project.
 
 ## This repository is a part of the following Open Source Program: Hack Club RAIT
