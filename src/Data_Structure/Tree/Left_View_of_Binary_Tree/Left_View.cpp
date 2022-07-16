@@ -42,7 +42,7 @@ int main()
     leftView(root, 0, ans);
 
     for(int i : ans)
-        cout << i << " ";
+        cout << i << " "; // 1 2 4 8
 
     return 0; 
 }
