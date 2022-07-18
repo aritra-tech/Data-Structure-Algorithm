@@ -1,29 +1,29 @@
-/*
+package Data_Structure.Stack.Basic_Operations.Stack_using_LL;/*
  * Java Program to Implement Stack using Linked List
  */
  
 import java.util.*;
  
 /*  Class Node  */
-class Node
+class ListNode
 {
     protected int data;
-    protected Node link;
+    protected ListNode link;
  
     /*  Constructor  */
-    public Node()
+    public ListNode()
     {
         link = null;
         data = 0;
     }    
     /*  Constructor  */
-    public Node(int d,Node n)
+    public ListNode(int d,ListNode n)
     {
         data = d;
         link = n;
     }    
     /*  Function to set link to next Node  */
-    public void setLink(Node n)
+    public void setLink(ListNode n)
     {
         link = n;
     }    
@@ -33,7 +33,7 @@ class Node
         data = d;
     }    
     /*  Function to get link to next node  */
-    public Node getLink()
+    public ListNode getLink()
     {
         return link;
     }    
@@ -47,7 +47,7 @@ class Node
 /*  Class linkedStack  */
 class linkedStack
 {
-    protected Node top ;
+    protected ListNode top ;
     protected int size ;
       /*  Constructor  */
       public linkedStack()
@@ -68,7 +68,7 @@ class linkedStack
       /*  Function to push an element to the stack */
       public void push(int data)
       {
-          Node nptr = new Node (data, null);
+          ListNode nptr = new ListNode (data, null);
           if (top == null)
               top = nptr;
           else
@@ -83,7 +83,7 @@ class linkedStack
     {
         if (isEmpty() )
             throw new NoSuchElementException("Underflow Exception") ;
-        Node ptr = top;
+        ListNode ptr = top;
         top = ptr.getLink();
         size-- ;
         return ptr.getData();
@@ -104,7 +104,7 @@ class linkedStack
             System.out.print("Empty\n");
             return ;
         }
-        Node ptr = top;
+        ListNode ptr = top;
         while (ptr != null)
         {
             System.out.print(ptr.getData()+" ");
@@ -115,7 +115,7 @@ class linkedStack
 }
  
 /* Class LinkedStackImplement */
-public class LinkedStackImplement
+public class stackusingLL
 {    
     public static void main(String[] args)
     {
