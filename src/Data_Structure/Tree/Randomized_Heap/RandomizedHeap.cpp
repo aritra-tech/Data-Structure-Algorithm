@@ -23,6 +23,7 @@ class RHeap {
       void showHeap();
       int Size();
 };
+
 int main() {
    RHeap h;
    while (1) {
@@ -62,13 +63,16 @@ int main() {
    }
    return 0;
 }
+
 int RHeap::Size() {
    return heap.size();
 }
+
 void RHeap::Insert(int ele) {
    heap.push_back(ele);
    heapifyup(heap.size() -1);
 }
+
 void RHeap::DeleteMin() {
    if (heap.size() == 0) {
       cout<<"Heap is Empty"<<endl;
@@ -79,6 +83,7 @@ void RHeap::DeleteMin() {
    heapifydown(0);
    cout<<"Element Deleted"<<endl;
 }
+
 int RHeap::ExtractMin() {
    if (heap.size() == 0) {
       return -1;
@@ -86,6 +91,7 @@ int RHeap::ExtractMin() {
    else
    return heap.front();
 }
+
 void RHeap::showHeap() {
    vector <int>::iterator pos = heap.begin();
    cout<<"Heap --> ";
@@ -95,6 +101,8 @@ void RHeap::showHeap() {
    }
    cout<<endl;
 }
+
+
 int RHeap::l(int parent) {
    int l = 2 * parent + 1;
    if (l < heap.size())
@@ -102,6 +110,8 @@ int RHeap::l(int parent) {
    else
       return -1;
 }
+
+
 int RHeap::r(int parent) {
    int r = 2 * parent + 2;
    if (r < heap.size())
@@ -109,6 +119,7 @@ int RHeap::r(int parent) {
    else
       return -1;
 }
+
 int RHeap::par(int child) {
    int p = (child - 1)/2;
    if (child == 0)
@@ -116,6 +127,7 @@ int RHeap::par(int child) {
    else
       return p;
 }
+
 void RHeap::heapifyup(int in) {
    if (in >= 0 && par(in) >= 0 && heap[par(in)] > heap[in]) {
       int temp = heap[in];
@@ -124,6 +136,7 @@ void RHeap::heapifyup(int in) {
       heapifyup(par(in));
    }
 }
+
 void RHeap::heapifydown(int in) {
    int child = l(in);
    int child1 = r(in);
