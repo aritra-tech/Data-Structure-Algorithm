@@ -1,29 +1,43 @@
+// Selection sort in C
+
 #include <stdio.h>
-int main()
-{
-    int a[100], n, i, j, position, swap;
-    printf("Enter number of elementsn");
-    scanf("%d", &n);
-    printf("Enter %d Numbers", n);
-    for (i = 0; i < n; i++)
-        scanf("%d", &a[i]);
-    for (i = 0; i < n - 1; i++)
-    {
-        position = i;
-        for (j = i + 1; j < n; j++)
-        {
-            if (a[position] > a[j])
-                position = j;
-        }
-        if (position != i)
-        {
-            swap = a[i];
-            a[i] = a[position];
-            a[position=swap;
-        }
+
+// function to swap the the position of two elements
+void swap(int *a, int *b) {
+  int temp = *a;
+  *a = *b;
+  *b = temp;
+}
+
+void selectionSort(int array[], int size) {
+  for (int step = 0; step < size - 1; step++) {
+    int min_idx = step;
+    for (int i = step + 1; i < size; i++) {
+
+      // To sort in descending order, change > to < in this line.
+      // Select the minimum element in each loop.
+      if (array[i] < array[min_idx])
+        min_idx = i;
     }
-    printf("Sorted Array:n");
-    for (i = 0; i < n; i++)
-        printf("%dn", a[i]);
-    return 0;
+
+    // put min at the correct position
+    swap(&array[min_idx], &array[step]);
+  }
+}
+
+// function to print an array
+void printArray(int array[], int size) {
+  for (int i = 0; i < size; ++i) {
+    printf("%d  ", array[i]);
+  }
+  printf("\n");
+}
+
+// driver code
+int main() {
+  int data[] = {20, 12, 10, 15, 2};
+  int size = sizeof(data) / sizeof(data[0]);
+  selectionSort(data, size);
+  printf("Sorted array in Acsending Order:\n");
+  printArray(data, size);
 }
