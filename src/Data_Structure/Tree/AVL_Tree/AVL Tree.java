@@ -1,4 +1,4 @@
-package AVL_Tree;
+package Data_Structure.Tree.AVL_Tree;
 
 import java.util.*;
 
@@ -214,7 +214,7 @@ class AVLTree {
     }      
 
 
-    public class Main {
+    public static class Main {
 
         public static void main(String[] args) {
 
