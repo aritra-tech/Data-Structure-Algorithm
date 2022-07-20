@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class RadixSort {
 
-
+  // Using counting sort to sort the elements in the basis of significant places
   void countingSort(int array[], int size, int place) {
     int[] output = new int[size + 1];
     int max = array[0];
