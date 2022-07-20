@@ -34,7 +34,7 @@ public class BucketSort {
     }
   }
 
-
+  // main function
   public static void main(String[] args) {
     BucketSort b = new BucketSort();
     float[] arr = { (float) 0.42, (float) 0.32, (float) 0.33, (float) 0.52, (float) 0.37, (float) 0.47,
