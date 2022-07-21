@@ -1,11 +1,10 @@
-package Data_Structure.algorithms.graphs.cycledetection.undirectedgraph;
+package Data_Structure.Graph.Cycle_Detection_BFS.Undirected_Graph;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Stack;
 
-public class Graph {
+public class Cycle_Detection {
 	
 	private String vertices[];
 	private int size;
@@ -18,7 +17,7 @@ public class Graph {
 	private HashMap<String, Integer> entry;
 	private HashMap<String, Integer> exit;
 	
-	public Graph(int size) {
+	public Cycle_Detection(int size) {
 		this.size = size;
 		this.vertices = new String[this.size];
 		this.pointer = 0;
