@@ -1,4 +1,4 @@
-package Algorithm.Searching.BinarySearch;
+package Algorithm.Searching.Leetcode_problems.Kth_SmallestElement;
 
 import java.util.ArrayList;
 import java.util.Arrays;

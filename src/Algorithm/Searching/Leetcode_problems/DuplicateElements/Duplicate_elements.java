@@ -1,4 +1,4 @@
-package Algorithm.Searching.BinarySearch;
+package Algorithm.Searching.Leetcode_problems.DuplicateElements;
 
 public class Duplicate_elements {
 

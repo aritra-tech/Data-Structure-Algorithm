@@ -1,4 +1,4 @@
-package Algorithm.Searching.BinarySearch;
+package Algorithm.Searching.Leetcode_problems.Minimum_in_rotated_sorted_array;
 
 public class min_element {
     // Function to find minimum element

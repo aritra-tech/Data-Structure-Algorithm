@@ -1,4 +1,4 @@
-package Algorithm.Searching.BinarySearch;
+package Algorithm.Searching.Leetcode_problems.Find_peak_element;
 
 public class Peak_element {
     // Find the peak element in the array
