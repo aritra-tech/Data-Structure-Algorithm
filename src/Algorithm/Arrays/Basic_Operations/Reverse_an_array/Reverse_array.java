@@ -13,7 +13,7 @@
  *
  */
 
-package Algorithm.Arrays.Reverse_an_array;
+package Algorithm.Arrays.Basic_Operations.Reverse_an_array;
 
 import java.util.Arrays;
 public class Reverse_array {

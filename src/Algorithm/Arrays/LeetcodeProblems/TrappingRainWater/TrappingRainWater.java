@@ -1,4 +1,4 @@
-package Algorithm.Arrays.TrappingRainWater;
+package Algorithm.Arrays.LeetcodeProblems.TrappingRainWater;
 
 public class TrappingRainWater {
     public static void main(String[] args) {
