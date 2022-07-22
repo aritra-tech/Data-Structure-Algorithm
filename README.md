@@ -1,12 +1,13 @@
 <div align="center">
 <h1> Data Structures & Algorithm </h1>
-  
-![Data-Structure-Algorithm (1)](https://user-images.githubusercontent.com/80090908/179566048-b42127a4-0c68-4198-ba81-77bc53c25547.png)
-
-  
+ 
+   
 <a href="https://github.com/aritra-tech/Data-Structure-Algorithm"><img src="https://visitor-badge.laobi.icu/badge?page_id=aritra-tech/Data-Structure-Algorithm" alt="visitor count"/></a>
 <a href="https://github.com/aritra-tech/Data-Structure-Algorithm/stargazers"><img src="https://img.shields.io/github/stars/aritra-tech/Data-Structure-Algorithm" alt="Stars Badge"/></a>
 <a href="https://github.com/aritra-tech/Data-Structure-Algorithm/network/members"><img src="https://img.shields.io/github/forks/aritra-tech/Data-Structure-Algorithm" alt="Forks Badge"/></a>
+  
+![Data-Structure-Algorithm (1)](https://user-images.githubusercontent.com/80090908/179566048-b42127a4-0c68-4198-ba81-77bc53c25547.png)
+
 
 
 This repository contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is to help students who are learning Data Structures and Algorithms or preparing for an interview. This contains questions from popular coding platforms including [LeetCode](https://leetcode.com/problemset/all/) , [GeeksforGeeks](https://practice.geeksforgeeks.org/) etc.
@@ -23,7 +24,6 @@ Don't forget to follow [Contribution Guidelines](CONTRIBUTING.md)
 * C++
 * Java
 
-## Connect with me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aritra-das-/)](https://www.linkedin.com/in/aritra-das-/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aritratech) 
 
 <h1 align=center> Projects Contributors ✨ </h1>
   
