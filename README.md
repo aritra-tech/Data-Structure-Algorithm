@@ -23,7 +23,6 @@ Don't forget to follow [Contribution Guidelines](CONTRIBUTING.md)
 * C++
 * Java
 
-## Connect with me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aritra-das-/)](https://www.linkedin.com/in/aritra-das-/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aritratech) 
 
 <h1 align=center> Projects Contributors ✨ </h1>
   
