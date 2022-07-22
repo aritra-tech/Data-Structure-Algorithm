@@ -16,7 +16,7 @@
  *
  */
 
-package Algorithm.Arrays.JumpGame;
+package Algorithm.Arrays.LeetcodeProblems.JumpGame;
 
 public class Jump_Game_II {
     public static void main(String[] args) {

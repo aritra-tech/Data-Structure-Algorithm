@@ -1,4 +1,4 @@
-package Algorithm.Arrays.Remove_Duplicates_from_Sorted_Array;
+package Algorithm.Arrays.LeetcodeProblems.Remove_Duplicates_from_Sorted_Array;
 
 public class RemoveDuplicates {
     public static void main(String[] args){
