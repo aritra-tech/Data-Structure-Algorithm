@@ -1,7 +1,9 @@
-import java.util.Arrays; 
+package Algorithm.Arrays.Basic_Operations.Array_Insertion;
+
+import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main
+public class Array_Element_Insertion
 {
     public static int[] addElement(int n, int arr[], int ele, int pos) 
     { 
