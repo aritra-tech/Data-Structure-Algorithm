@@ -1,4 +1,4 @@
-package Data_Structure.Tree.LCA;
+package Data_Structure.Tree.Leetcode_Problems.LCA;
 
 public class LCA_BT {
     private static class TreeNode {
