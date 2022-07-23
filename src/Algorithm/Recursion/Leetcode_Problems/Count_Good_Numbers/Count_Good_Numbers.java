@@ -1,11 +1,17 @@
-class Solution {
-    public int countGoodNumbers(long n) {
+package Algorithm.Recursion.Leetcode_Problems.Count_Good_Numbers;
+
+public class Count_Good_Numbers {
+    public static void main(String[] args){
+        long n = 1;
+        countGoodNumbers(n);
+    }
+    public static int countGoodNumbers(long n) {
       return (int) (myPow(4 * 5, n / 2) * (n % 2 == 1 ? 5 : 1) % kMod);
     }
   
     private static final int kMod = (int) 1e9 + 7;
   
-    private long myPow(long x, long n) {
+    private static long myPow(long x, long n) {
       if (n == 0)
         return 1;
       if (n % 2 == 1)

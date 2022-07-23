@@ -1,5 +1,12 @@
-class Solution {
-    public int peakIndexInMountainArray(int[] arr) {
+package Algorithm.Arrays.LeetcodeProblems.Peak_Index_in_Mountain_Array;
+
+public class Peak_Index_in_Mountain_Array {
+
+    public static void main(String[] args){
+      int[] arr = {0,1,0};
+      System.out.println(peakIndexInMountainArray(arr));
+    }
+    public static int peakIndexInMountainArray(int[] arr) {
       int l = 0;
       int r = arr.length - 1;
 
