@@ -1,3 +1,5 @@
+package Data_Structure.ArrayLists.Problems;
+
 import java.util.*;
 class ArraylistShuffle {
     public static void main(String args[])

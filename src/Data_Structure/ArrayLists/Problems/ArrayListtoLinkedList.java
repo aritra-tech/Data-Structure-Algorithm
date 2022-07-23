@@ -1,8 +1,9 @@
-// Java program to convert ArrayList
+package Data_Structure.ArrayLists.Problems;// Java program to convert ArrayList
 // to LinkedHashMap
 
-import java.util.*;
-import java.io.*;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
 class ArrayListtoLinkedList {
 	public static void main(String[] args)

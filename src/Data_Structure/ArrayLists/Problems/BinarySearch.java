@@ -1,5 +1,6 @@
-import java.io.*;
-import java.util.*;
+package Data_Structure.ArrayLists.Problems;
+
+import java.util.ArrayList;
   
 class BinarySearch 
 { 
