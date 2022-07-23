@@ -1,6 +1,6 @@
-package Algorithm.Recursion;
+package Algorithm.Searching.LinearSearch;
 
-public class SearchingInArray {
+public class LinearSearchingUsingRecursion {
     public static void main(String[] args) {
         int[] array = {5,6,7,8,9,10,1,2,3};
         System.out.println(findInArr(array, 100,0) );
