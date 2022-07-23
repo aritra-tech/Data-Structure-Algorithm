@@ -1,6 +1,4 @@
-package Data_Structure.Tree.LCA;
-
-import groovyjarjarantlr4.runtime.tree.Tree;
+package Data_Structure.Tree.Leetcode_Problems.LCA;
 
 public class LCA_BST {
     static class TreeNode {
