@@ -1,11 +1,20 @@
-/*
+package Algorithm.Arrays.LeetcodeProblems.GroupAnagrams;/*
     Problem link- https://leetcode.com/problems/group-anagrams/
 */
-*/
 
-class Solution {
 
-    public List<List<String>> groupAnagrams(String[] strs) {
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+public class groupAnagrams {
+
+    public static void main(String[] args){
+        String arr[] = { "eat","tea","tan","ate","nat","bat"};
+        groupAnagrams(arr);
+    }
+
+    public static List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> res = new ArrayList<>();
         if (strs.length == 0) return res;
         HashMap<String, List<String>> map = new HashMap<>();

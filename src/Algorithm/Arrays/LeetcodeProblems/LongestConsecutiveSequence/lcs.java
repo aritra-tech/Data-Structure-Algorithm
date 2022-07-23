@@ -1,15 +1,19 @@
-/*
-    Problem Link: https://leetcode.com/problems/longest-consecutive-sequence/
-    Given unsorted array, return length of longest consecutive sequence
-    Ex. nums = [100,4,200,1,3,2] -> 4, longest is [1,2,3,4]
-
-    Time: O(n)
-    Space: O(n)
-*/
+package Algorithm.Arrays.LeetcodeProblems.LongestConsecutiveSequence;
 
 
-class Solution {
-    public int longestConsecutive(int[] nums) {
+
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class lcs {
+
+    public static void main(String[] args){
+
+        int[] nums = {100,4,200,1,3,2};
+        longestConsecutive(nums);
+    }
+    public static int longestConsecutive(int[] nums) {
         Set<Integer> num_set = new HashSet<Integer>();
         for (int num : nums) {
             num_set.add(num);

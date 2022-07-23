@@ -1,12 +1,18 @@
-// Problem Link: https://leetcode.com/problems/powx-n/
+package Algorithm.Arrays.LeetcodeProblems.Pow;// Problem Link: https://leetcode.com/problems/powx-n/
 
 //Instead of using the classic recursive approach i.e. x*pow(x, n-1) just have (x*x), i.e., pow(x*x, n/2).
 //This will make the TC logarithmic instead of linear.
 //Just take care of the edge cases like Integer.MIN_VALUE, negative power, odd cases.
 //Asked in Amazon, Meta, Google, Linkedin, Bloomberg
-class Solution {
+public class pow {
 
-    public double myPow(double x, int n) {
+    public static void main(String[] args){
+        int n = 10;
+        double x = 2.00000;
+        myPow(x,n);
+    }
+
+    public static double myPow(double x, int n) {
         if (n == 0) {
             return 1;
         }
