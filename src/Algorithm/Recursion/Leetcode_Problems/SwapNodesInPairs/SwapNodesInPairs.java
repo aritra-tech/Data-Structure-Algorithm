@@ -1,4 +1,4 @@
-package Algorithm.Recursion.Swap_Nodes_In_Pairs;
+package Algorithm.Recursion.Leetcode_Problems.SwapNodesInPairs;
 
 public class SwapNodesInPairs {
     static class ListNode {

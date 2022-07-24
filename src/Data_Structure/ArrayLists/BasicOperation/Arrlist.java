@@ -1,4 +1,4 @@
-package Data_Structure.ArrayLists;
+package Data_Structure.ArrayLists.BasicOperation;
 
 import java.util.ArrayList;
 import java.util.Collections;

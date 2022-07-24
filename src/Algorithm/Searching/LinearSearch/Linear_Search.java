@@ -1,4 +1,4 @@
-//Question: Search an Element in the DSA.array using Linear Search Technique
+//Question: SearchElement in the DSA.array using Linear Search Technique
 
 package Algorithm.Searching.LinearSearch;
 

@@ -1,14 +1,15 @@
-package Data_Structure.Tree.Right_View_of_Binary_Tree;
+package Data_Structure.Tree.ViewofBT.Left_View_of_Binary_Tree;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class RightViewBT_Java {
+public class LeftViewBT_Java {
     static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
-        TreeNode (int data) {
+
+        TreeNode(int data) {
             this.val = data;
             this.left = this.right = null;
         }
@@ -21,14 +22,15 @@ public class RightViewBT_Java {
         root.left.left = new TreeNode(1);
         root.left.right = new TreeNode(2);
         List<Integer> list = new ArrayList<>();
-        System.out.println(rightView(root, list, 0));
+        System.out.println(leftView(root, list, 0));
     }
 
-    private static List<Integer> rightView(TreeNode root, List<Integer> list, int level) {
+    private static List<Integer> leftView(TreeNode root, List<Integer> list, int level) {
         if (root == null) return null;
         if (list.size() == level) list.add(root.val);
-        rightView(root.right, list, level+1);
-        rightView(root.left, list, level+1);
+        leftView(root.left, list, level+1);
+        leftView(root.right, list, level+1);
         return list;
     }
+
 }

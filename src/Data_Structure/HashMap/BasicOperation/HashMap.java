@@ -1,4 +1,4 @@
-package Data_Structure.HashMap;// Java program to illustrate HashMap class of java.util
+package Data_Structure.HashMap.BasicOperation;// Java program to illustrate HashMap class of java.util
 
 // Importing HashMap class
 
