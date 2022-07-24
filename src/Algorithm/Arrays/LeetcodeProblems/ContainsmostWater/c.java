@@ -1,4 +1,6 @@
-public class Main
+package Algorithm.Arrays.LeetcodeProblems.ContainsmostWater;
+
+public class c
 {
         public static void main(String[] args) {
 
