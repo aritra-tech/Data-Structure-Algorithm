@@ -1,5 +1,5 @@
 
-package Data_Structure.Stack.CelebrityProblem;
+package Data_Structure.Stack.Problems.CelebrityProblem;
 
 
 

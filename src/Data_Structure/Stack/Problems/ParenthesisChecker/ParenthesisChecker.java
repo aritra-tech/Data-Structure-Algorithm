@@ -1,4 +1,4 @@
-package Data_Structure.Stack.ParenthesisChecker;
+package Data_Structure.Stack.Problems.ParenthesisChecker;
 
 import java.util.Stack;
 

@@ -1,5 +1,7 @@
-// 3.Find Smallest Letter Greater Than Target
-public class Main
+package Algorithm.Searching.Leetcode_problems.Find_smallest_letter_greater_than_target;
+
+
+public class greaterelement
 {
 	public static void main(String[] args) {
 	    char[] letters={'c','f','j'};

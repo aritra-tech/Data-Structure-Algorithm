@@ -1,6 +1,8 @@
-// 1.Find First and Last Position of Element in Sorted Array
+package Algorithm.Searching.Leetcode_problems.First_and_last_element_in_sorted_array;
+
+
 import java.util.Arrays;
-public class Main
+public class firstlastelement
 {
   public static void main (String[]args)
   {
