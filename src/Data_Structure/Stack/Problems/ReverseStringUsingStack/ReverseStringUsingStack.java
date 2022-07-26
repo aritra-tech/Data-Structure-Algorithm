@@ -1,4 +1,4 @@
-package Data_Structure.Stack.ReverseStringUsingStack;
+package Data_Structure.Stack.Problems.ReverseStringUsingStack;
 
 import java.util.*;
 public class ReverseStringUsingStack {
