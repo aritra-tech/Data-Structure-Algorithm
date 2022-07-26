@@ -1,5 +1,5 @@
 
-package Algorithm.Arrays.LeetcodeProblems.TwoSum;
+package Algorithm.Arrays.LeetcodeProblems.TwoSumProblem;
 
 import java.util.Arrays;
 
