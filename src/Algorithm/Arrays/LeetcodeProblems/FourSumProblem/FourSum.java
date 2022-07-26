@@ -1,20 +1,20 @@
 
-package Algorithm.Arrays.LeetcodeProblems.FourSumProblem
+package Algorithm.Arrays.LeetcodeProblems.FourSumProblem;
 
-//Given an array nums of n integers, return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that:
-//
-//0 <= a, b, c, d < n
-//a, b, c, and d are distinct.
-//nums[a] + nums[b] + nums[c] + nums[d] == target
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
 
-//Example :
-//Input: nums = [1,0,-1,0,-2,2], target = 0
-//Output: [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]
+public class FourSum {
 
-
-class Solution {
-    public List<List<Integer>> fourSum(int[] nums, int target) {
-        HashSet <List<Integer>> set= new HashSet<List<Integer>>();
+    public static void main(String[] args){
+        int[] nums = {1,0,-1,0,-2,2};
+        int target = 0;
+        System.out.println(fourSum(nums,target));
+    }
+    public static List<List<Integer>> fourSum(int[] nums, int target) {
+        HashSet<List<Integer>> set= new HashSet<List<Integer>>();
         List <List<Integer>> ans=new ArrayList<List<Integer>>();
         
         if(nums.length<4||nums==null){

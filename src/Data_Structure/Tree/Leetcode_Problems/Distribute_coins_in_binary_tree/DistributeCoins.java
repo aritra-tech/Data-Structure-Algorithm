@@ -1,20 +1,26 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-class Solution {
-    public int distributeCoins(TreeNode root) {
+package Data_Structure.Tree.Leetcode_Problems.Distribute_coins_in_binary_tree;
+
+
+public class DistributeCoins {
+
+    static class TreeNode {
+        int val;
+        DistributeCoins.TreeNode left;
+        DistributeCoins.TreeNode right;
+        TreeNode (int data) {
+            this.val = data;
+            this.left = this.right = null;
+        }
+    }
+    public static void main(String args[])
+    {
+        DistributeCoins.TreeNode root = new DistributeCoins.TreeNode(3);
+        root.left = new DistributeCoins.TreeNode(0);
+        root.right = new DistributeCoins.TreeNode(0);
+        System.out.println(distributeCoins(root));
+    }
+
+    public static int distributeCoins(TreeNode root) {
         int res = 0;
         if (root.left != null) {
             // Traverse left subtree
