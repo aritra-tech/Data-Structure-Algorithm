@@ -1,5 +1,7 @@
+package Algorithm.Arrays.LeetcodeProblems.HowManyNumbersAreSmallerThantheCurrentNumber;
+
 import java.util.Arrays;
-public class Main
+public class samllernumber
 {
 	public static void main(String[] args) {
 	    int[] nums={8,1,2,2,3};
