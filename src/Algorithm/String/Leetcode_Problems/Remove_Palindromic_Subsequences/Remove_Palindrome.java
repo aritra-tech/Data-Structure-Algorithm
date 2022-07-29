@@ -1,7 +1,6 @@
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-class Main
+package Algorithm.String.Leetcode_Problems.Remove_Palindromic_Subsequences;
+
+public class Remove_Palindrome
 {
   public static int removePalindromeSub(String s) {
         if(s.isEmpty())
