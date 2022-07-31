@@ -1,8 +1,28 @@
 package Algorithm.Arrays.LeetcodeProblems.MergeOverlapSubInterval;
 
-class Solution {
+import java.util.Arrays;
+
+class Interval
+{
+    int start,end;
+
+    Interval(int start, int end)
+    {
+        this.start=start;
+        this.end=end;
+    }
+}
+public class MergeOverlapSubInterval {
+
+    public static void main(String[] args){
+        int[][] intervals = {{1,3},
+                            {2,6},
+                            {8,10},
+                            {15,18}};
+        System.out.println(Arrays.deepToString(merge(intervals)));
+    }
    
-    public int[][] merge(int[][] intervals) {
+    public static int[][] merge(int[][] intervals) {
          Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         int prev = 0;
         for (int cur = 1; cur < intervals.length; cur++) {

@@ -1,9 +1,7 @@
 package Algorithm.Arrays.LeetcodeProblems.FindDuplicate;
 
 
-import java.util.*;
-
-class Solution {
+class FindDuplicateInArray {
     public static int findDuplicate(int[] nums) {
         int slow = nums[0];
         int fast = nums[0];
