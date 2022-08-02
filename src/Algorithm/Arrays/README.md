@@ -107,7 +107,7 @@ Java
 // of integers,  puts some values in the array,
 // and prints each value to standard output.
 
-` 
+
 class GFG {
     public static void main(String[] args)
     {
@@ -136,7 +136,7 @@ class GFG {
                         
    }
 }
-`
+
 Output:- 
 
 ```
