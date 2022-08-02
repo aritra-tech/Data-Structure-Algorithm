@@ -1,3 +1,5 @@
+**Array Basics:**
+
 An array in Java is a group of like-typed variables referred to by a common name. Arrays in Java work differently than they do in C/C++. Following are some important points about Java arrays. 
 
 * In Java, all arrays are dynamically allocated. (discussed below)
