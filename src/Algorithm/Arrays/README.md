@@ -138,13 +138,14 @@ class GFG {
 }
 `
 Output:- 
-`
+
+```
 Element at index 0 : 10
 Element at index 1 : 20
 Element at index 2 : 30
 Element at index 3 : 40
 Element at index 4 : 50
-`
+```
 
 * Time Complexity: O(n)
 * Auxiliary Space : O(1)
