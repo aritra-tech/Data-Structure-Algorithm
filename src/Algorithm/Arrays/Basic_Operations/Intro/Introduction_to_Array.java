@@ -1,4 +1,4 @@
-package Data_Structure.Array;
+package Algorithm.Arrays.Basic_Operations.Intro;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -2,15 +2,15 @@
   <configuration default="false" name="Introduction_to_Array" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" nameIsGenerated="true">
     <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../jdk-17.0.2" />
     <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-    <option name="MAIN_CLASS_NAME" value="Data_Structure.Array.Introduction_to_Array" />
+    <option name="MAIN_CLASS_NAME" value="Algorithm.Arrays.Basic_Operations.Intro.Introduction_to_Array" />
     <module name="Data Structure &amp; Algorithm" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="Data_Structure.Array.*" />
+        <option name="PATTERN" value="Algorithm.Arrays.Basic_Operations.Intro.*" />
         <option name="ENABLED" value="true" />
       </pattern>
       <pattern>
-        <option name="PATTERN" value="Data_Structure.Array.Introduction_to_Array" />
+        <option name="PATTERN" value="Algorithm.Arrays.Basic_Operations.Intro.Introduction_to_Array" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
