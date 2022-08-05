@@ -1,3 +1,5 @@
+package Algorithm.Sorting.Problems.MinimumDeletionstoMakeArrayDivisible;
+
 import java.util.*;
 public class MinDeleMakeArrayDivisible {
     static int minOperations(int[] A, int[] numsDivide) {

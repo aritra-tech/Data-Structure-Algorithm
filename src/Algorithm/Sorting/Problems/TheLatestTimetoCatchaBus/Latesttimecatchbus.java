@@ -1,3 +1,5 @@
+package Algorithm.Sorting.Problems.TheLatestTimetoCatchaBus;
+
 import java.util.*;
 
 public class Latesttimecatchbus {

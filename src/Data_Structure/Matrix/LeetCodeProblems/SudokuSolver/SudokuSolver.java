@@ -1,6 +1,6 @@
-//Leetcode: https://leetcode.com/problems/sudoku-solver/
 
-package Data_Structure.Matrix;
+
+package Data_Structure.Matrix.LeetCodeProblems.SudokuSolver;
 
 public class SudokuSolver {
     // N is the size of the 2D matrix   N*N

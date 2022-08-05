@@ -1,3 +1,5 @@
+package Algorithm.Sorting.Problems.MinimumSumofSquaredDifference;
+
 public class MinSquredDiff {
     static long minSumSquareDif(int[] nums1, int[] nums2, int k1, int k2) {
         int lo=0,hi=100000,k=k1+k2;

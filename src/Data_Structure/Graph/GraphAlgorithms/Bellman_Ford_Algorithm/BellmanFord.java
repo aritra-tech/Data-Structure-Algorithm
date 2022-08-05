@@ -1,6 +1,6 @@
 // Implementation of BellmanFord Algorithm in java* 
 
-package Data_Structure.Graph.Bellman_Ford_Algorithm;
+package Data_Structure.Graph.GraphAlgorithms.Bellman_Ford_Algorithm;
  
 import java.util.HashMap;
 import java.util.Scanner;

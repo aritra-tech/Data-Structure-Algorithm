@@ -1,6 +1,6 @@
-//Leetcode: https://leetcode.com/problems/spiral-matrix/solution/
 
-package Data_Structure.Matrix;
+
+package Data_Structure.Matrix.LeetCodeProblems.SpiralMatrix;
 
 import java.util.ArrayList;
 import java.util.List;

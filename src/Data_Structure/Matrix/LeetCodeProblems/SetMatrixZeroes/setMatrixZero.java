@@ -1,6 +1,6 @@
-//Leetcode: https://leetcode.com/problems/set-matrix-zeroes/
 
-package Data_Structure.Matrix;
+
+package Data_Structure.Matrix.LeetCodeProblems.SetMatrixZeroes;
 
 public class setMatrixZero {
     public static void main(String[] args) {

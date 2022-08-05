@@ -1,4 +1,4 @@
-package Data_Structure.Graph.Cycle_Detection_BFS.Directed_Graph;
+package Data_Structure.Graph.BasicOperations.Cycle_Detection_BFS.Undirected_Graph;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -42,13 +42,14 @@ public class Cycle_Detection {
 	
 	public void addEdge(String label1, String label2) {
 		this.adjacencyList.get(label1).add(label2);
+		this.adjacencyList.get(label2).add(label1);
 	}
 	
 	public void dfs(String start) {
 		this.colors.put(start, "gray");
 		this.entry.put(start, ++this.time);
 		for(String neighbour: this.adjacencyList.get(start)) {
-			if(this.colors.get(neighbour).equals("gray")) {
+			if(this.colors.get(neighbour).equals("gray") && !this.previous.get(start).equals(neighbour)) {
 				System.out.println("CYCLE DETECTED");
 				return;
 			}

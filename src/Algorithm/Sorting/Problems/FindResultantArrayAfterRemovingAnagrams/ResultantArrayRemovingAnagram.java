@@ -1,3 +1,5 @@
+package Algorithm.Sorting.Problems.FindResultantArrayAfterRemovingAnagrams;
+
 import java.util.*;
 public class ResultantArrayRemovingAnagram {
     static List<String> removeAnagrams(String[] words) {
