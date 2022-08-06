@@ -1,3 +1,5 @@
+package Algorithm.Arrays.LeetcodeProblems.RotateImage;
+
 public class Rotate_image {
     public void rotate(int[][] matrix) {
         int length = matrix.length;

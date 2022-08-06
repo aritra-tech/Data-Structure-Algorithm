@@ -1,3 +1,5 @@
+package Algorithm.Arrays.LeetcodeProblems.SetMatrixZeroes;
+
 public class SetMatrixZeroes {
     private static void setZeroes(int[][] matrix, int n, int m) {
         int answer[][] = new int[n][m];

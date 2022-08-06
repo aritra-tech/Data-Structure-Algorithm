@@ -1,3 +1,5 @@
+package Algorithm.Arrays.LeetcodeProblems.FourSum;
+
 public class Four_sum {
     // Naive recursive function to check if quadruplet exists in an array
     // with the given sum

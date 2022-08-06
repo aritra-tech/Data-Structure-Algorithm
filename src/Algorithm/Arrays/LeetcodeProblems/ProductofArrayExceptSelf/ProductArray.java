@@ -1,3 +1,5 @@
+package Algorithm.Arrays.LeetcodeProblems.ProductofArrayExceptSelf;
+
 class ProductArray {
     /* Function to print product array
     for a given array arr[] of size n */
