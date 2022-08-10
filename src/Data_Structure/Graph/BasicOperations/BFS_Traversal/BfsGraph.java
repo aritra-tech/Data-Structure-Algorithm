@@ -1,4 +1,4 @@
-// BFS algorithm in Java
+package Data_Structure.Graph.BasicOperations.BFS_Traversal;// BFS algorithm in Java
 import java.util.*;
 
 public class BfsGraph {
