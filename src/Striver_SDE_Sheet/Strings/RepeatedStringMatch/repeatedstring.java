@@ -1,6 +1,6 @@
 package Striver_SDE_Sheet.Strings.RepeatedStringMatch;
 
-public  Solution{
+public class repeatedstring {
     public static void main(String[] args){
         String a="abcd";
         String b="cdabcdab";
@@ -31,5 +31,5 @@ public  Solution{
         
         return repeat;
     }
-    }
+
 }
