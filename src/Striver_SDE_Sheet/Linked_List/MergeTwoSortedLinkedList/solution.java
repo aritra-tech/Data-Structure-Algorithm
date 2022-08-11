@@ -1,6 +1,4 @@
-package Striver_SDE_Sheet.Linked_List.ReverseofLinkedList;
-
-import java.util.*;
+package Striver_SDE_Sheet.Linked_List.MergeTwoSortedLinkedList;
 
 /* Link list node */
 class Node
