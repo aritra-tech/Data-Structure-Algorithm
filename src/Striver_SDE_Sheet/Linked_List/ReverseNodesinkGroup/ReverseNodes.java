@@ -27,7 +27,7 @@
  * };
  */
 
-package Striver_SDE_Sheet.Linked_List.ReverseNodesInKGroup;
+package Striver_SDE_Sheet.Linked_List.ReverseNodesinkGroup;
 public class ReverseNodes {
           public ListNode reverseKGroup(ListNode head, int k) {
           if (head == null) {
