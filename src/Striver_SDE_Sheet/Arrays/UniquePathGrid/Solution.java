@@ -1,4 +1,4 @@
-package Striver_SDE_Sheet.Array.UniquePathGrid;
+package Striver_SDE_Sheet.Arrays.UniquePathGrid;
 
 class Solution{
 

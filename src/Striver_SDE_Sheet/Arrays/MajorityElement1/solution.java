@@ -1,4 +1,4 @@
-package Striver_SDE_Sheet.Array.MajorityElement-1;
+package Striver_SDE_Sheet.Arrays.MajorityElement1;
 
 class Solution {
     public static void main(String[] args) {

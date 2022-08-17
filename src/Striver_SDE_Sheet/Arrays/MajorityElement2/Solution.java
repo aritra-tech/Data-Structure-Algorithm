@@ -1,4 +1,4 @@
-package Striver_SDE_Sheet.Array.MajorityElement-2;
+package Striver_SDE_Sheet.Arrays.MajorityElement2;
 
 import java.util.*;
 
