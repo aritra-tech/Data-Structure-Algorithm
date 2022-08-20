@@ -1,9 +1,11 @@
+package Algorithm.Recursion.Leetcode_Problems.EliminationGame;
 import java.util.*;
 
 /**
  * Eleminationgame
  */
-public class Eleminationgame {
+
+ public class Eliminationgame {
     public static int lastRemaining(int n) {
         boolean isLeft = true;
         int remaining = n;

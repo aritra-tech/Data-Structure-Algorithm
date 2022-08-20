@@ -1,5 +1,7 @@
+package Algorithm.Recursion.Leetcode_Problems.Pow;
 import java.util.*;
-public class pow{
+
+public class pow {
 
     public static double myPow(double x, int n) {
         if (n == 0) return 1;
