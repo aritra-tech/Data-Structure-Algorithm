@@ -1,4 +1,3 @@
-package Algorithm.Arrays.LeetcodeProblems.MaximumProfitJobScheduling;
 
 class Solution {
 static bool cmp(vector<int>a,vector<int>b){ 

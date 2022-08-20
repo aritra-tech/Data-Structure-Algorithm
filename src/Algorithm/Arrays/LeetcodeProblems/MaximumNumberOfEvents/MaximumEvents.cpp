@@ -1,5 +1,3 @@
-package Algorithm.Arrays.LeetcodeProblems.MaximumNumberOfEvent;
-
 
 class Solution {
 public:
