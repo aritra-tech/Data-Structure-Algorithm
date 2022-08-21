@@ -1,6 +1,6 @@
 package Algorithm.Arrays.LeetcodeProblems.Median_of_2_sorted_arrays;
 
-public class median_sorted_array {
+public class Median_sorted_array {
 
     public static void main(String[] args){
         int[] nums1 = {1,3};
