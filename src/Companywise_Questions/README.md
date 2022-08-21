@@ -68,3 +68,22 @@
 - [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Arrays, Binary Search
 - [Add Digits](https://leetcode.com/problems/add-digits/) | Maths
 - [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS, BFS
+
+## Apple
+
+- [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, Hash Table
+- [LRU Cache](https://leetcode.com/problems/lru-cache/) | Hash Table, Linked List, Doubly-Linked List
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List, Math, Recursion
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Arrays, Sorting
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Arrays, Divide and Conquer, Dynamic Programming
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Hash Table, Strings, Sliding Window
+- [3Sum](https://leetcode.com/problems/3sum/) | Arrays, Two Pointer, Sorting
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | String, Dynamic Programming, Backtracking
+
+## Atlassian
+
+- [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | Arrays, Hash Table, String, Sorting, Counting
+- [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Arrays, Greedy
+- [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Math, String
+- [Single Number](https://leetcode.com/problems/single-number/) | Arrays, Bit Manipulation
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Arrays, Dynamic Programming
