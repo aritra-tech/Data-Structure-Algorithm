@@ -13,7 +13,7 @@
 
 
 
-This repository contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is to help students who are learning Data Structures and Algorithms or preparing for an interview. This contains questions from popular coding platforms including [LeetCode](https://leetcode.com/problemset/all/) , [GeeksforGeeks](https://practice.geeksforgeeks.org/) etc.
+This repository contains all the Data Structures and Algorithms concepts and their implementation in several ways, programming questions and Interview questions. The main aim of this repository is to help students who are learning Data Structures and Algorithms or preparing for an interview. This contains questions from popular coding platforms including [LeetCode](https://leetcode.com/problemset/all/) , [GeeksforGeeks](https://practice.geeksforgeeks.org/) , [HackerRank](www.hackerrank.com) , [HackerEarth](https://www.hackerearth.com/practice/) etc.
 
 </div>
 

@@ -1,0 +1,1 @@
+[Problem](https://www.hackerrank.com/contests/aug-22-ccc-srm-ktr-cps-02-b1-world-open-coding-practice/challenges/02x10-infix-to-postfix)
