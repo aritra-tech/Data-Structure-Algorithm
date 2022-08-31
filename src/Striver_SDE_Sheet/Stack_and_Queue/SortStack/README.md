@@ -16,12 +16,12 @@ We can only use the following functions on this stack S.
 ## Brute Force Approach:
 
 Brute Force Approach not feasible for the Time constraints given in the problem.
-**
-1 <= 'T' <= 100
-1 <=  'N' <= 100
-1 <= |'V'| <= 10^9
-Time Limit: 1 second
-**
+
+- 1 <= 'T' <= 100
+- 1 <=  'N' <= 100
+- 1 <= |'V'| <= 10^9
+- Time Limit: 1 second
+
 Hence Recursive solution is best suitable for this problem.
 
 ## Optimal Solution (Recursive):
