@@ -42,7 +42,7 @@ Don't forget to follow [Contribution Guidelines](CONTRIBUTING.md)
   
 ## Give it a 🌟 if you ❤ this project.
 
-## This repository is a part of the following Open Source Program: Hack Club RAIT
+## This repository was a part of the following Open Source Program: Hack Club RAIT
 
 
 ![1632670084686](https://user-images.githubusercontent.com/80090908/179052180-5067b5fe-9c98-421e-b818-ae4bd7976ca8.jpg)
