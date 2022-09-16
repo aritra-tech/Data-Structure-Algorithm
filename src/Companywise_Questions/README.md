@@ -87,3 +87,16 @@
 - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Math, String
 - [Single Number](https://leetcode.com/problems/single-number/) | Arrays, Bit Manipulation
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Arrays, Dynamic Programming
+
+## Google
+
+-[Text Justification](https://leetcode.com/problems/text-justification/)
+-[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+-[H-Index](https://leetcode.com/problems/h-index/)
+-[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+-[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
+-[Decode String](https://leetcode.com/problems/decode-string/)
+-[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)\
+-[Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+-[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+-[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)
