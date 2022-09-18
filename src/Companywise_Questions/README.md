@@ -100,3 +100,25 @@
 - [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | Maths, DP
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Array, Maths, String
 - [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | DP
+
+## Facebook
+
+- [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+- [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [Simplify Path](https://leetcode.com/problems/simplify-path/)
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+## Goldman Sachs
+
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [Height Checker](https://leetcode.com/problems/height-checker/)
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
