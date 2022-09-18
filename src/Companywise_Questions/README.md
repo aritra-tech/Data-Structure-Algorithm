@@ -90,13 +90,13 @@
 
 ## Google
 
--[Text Justification](https://leetcode.com/problems/text-justification/)
--[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
--[H-Index](https://leetcode.com/problems/h-index/)
--[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
--[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
--[Decode String](https://leetcode.com/problems/decode-string/)
--[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)\
--[Poor Pigs](https://leetcode.com/problems/poor-pigs/)
--[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
--[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)
+- [Text Justification](https://leetcode.com/problems/text-justification/) | Arrays, String
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Arrays, Maths, Stack
+- [H-Index](https://leetcode.com/problems/h-index/) | Arrays, Sorting
+- [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Arrays, DP, DFS, BFS , Graph, Matrix
+- [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | String, Stack, DFS
+- [Decode String](https://leetcode.com/problems/decode-string/) | String, Stack, Recursion
+- [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | Array, DFS, Matrix
+- [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | Maths, DP
+- [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Array, Maths, String
+- [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | DP
