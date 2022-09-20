@@ -1,5 +1,8 @@
 package Algorithm.Recursion.Leetcode_Problems.Palindrome_Partitioning;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class PalindromePartitioning {
     public List<List<String>> partition(String s) {
         List<List<String>> ans = new ArrayList<>();
