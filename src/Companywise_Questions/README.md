@@ -100,6 +100,8 @@
 - [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | Maths, DP
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | Array, Maths, String
 - [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | DP
+- [Special Matrix](https://practice.geeksforgeeks.org/contest/interview-series-google/problems/#)
+- [Minimum times A has to be repeated such that B is a substring of it](https://practice.geeksforgeeks.org/contest/interview-series-google/problems/#)
 
 ## Facebook
 
