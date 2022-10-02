@@ -7,7 +7,8 @@
  <a href="https://github.com/aritra-tech/Data-Structure-Algorithm/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/aritra-tech/Data-Structure-Algorithm"></a>
 <a href="https://github.com/aritra-tech/Data-Structure-Algorithm/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/aritra-tech/Data-Structure-Algorithm"></a>
 <a href="https://github.com/aritra-tech/Data-Structure-Algorithm/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aritra-tech/Data-Structure-Algorithm?color=2b9348"></a>
- 
+
+<a href="https://github.com/aritra-tech/Data-Structure-Algorithm"><img alt="Hackoctoberfest-22" src="https://img.shields.io/static/v1.svg?label=Hacktoberfest-22&message=accepted&color=red"></a>
  
 ![Data-Structure-Algorithm (1)](https://user-images.githubusercontent.com/80090908/179566048-b42127a4-0c68-4198-ba81-77bc53c25547.png)
 
@@ -40,8 +41,10 @@ Don't forget to follow [Contribution Guidelines](CONTRIBUTING.md)
   
 ## Give it a 🌟 if you ❤ this project.
 
-## This repository was a part of the following Open Source Program: Hack Club RAIT
+## Project Participted 
+![hacktoberfest](https://user-images.githubusercontent.com/80090908/193457358-29ed4fc1-1a33-4d53-9dbf-4f69e52e8fd4.png)
 
+## Past Participated
 
 ![1632670084686](https://user-images.githubusercontent.com/80090908/179052180-5067b5fe-9c98-421e-b818-ae4bd7976ca8.jpg)
 
