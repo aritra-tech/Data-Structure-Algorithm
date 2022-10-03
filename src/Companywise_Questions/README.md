@@ -102,6 +102,12 @@
 - [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | DP
 - [Special Matrix](https://practice.geeksforgeeks.org/contest/interview-series-google/problems/#)
 - [Minimum times A has to be repeated such that B is a substring of it](https://practice.geeksforgeeks.org/contest/interview-series-google/problems/#)
+- [Decode String](https://leetcode.com/problems/decode-string/)
+- [Add two numbers](https://leetcode.com/problems/add-two-numbers/)
+- [Frog Jump](https://leetcode.com/problems/frog-jump/)
+- [Merge K sorted list](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Word Ladder](https://leetcode.com/problems/word-ladder/)
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ## Facebook
 
