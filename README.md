@@ -41,12 +41,4 @@ Don't forget to follow [Contribution Guidelines](CONTRIBUTING.md)
   
 ## Give it a 🌟 if you ❤ this project.
 
-## Project Participted 
-![hacktoberfest](https://user-images.githubusercontent.com/80090908/193457358-29ed4fc1-1a33-4d53-9dbf-4f69e52e8fd4.png)
-
-## Past Participated
-
-![1632670084686](https://user-images.githubusercontent.com/80090908/179052180-5067b5fe-9c98-421e-b818-ae4bd7976ca8.jpg)
-
-
 ## Happy Coding 👨‍💻
