@@ -72,7 +72,7 @@
 
 - [X] [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays, Hash Table
 - [LRU Cache](https://leetcode.com/problems/lru-cache/) | Hash Table, Linked List, Doubly-Linked List
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List, Math, Recursion
+- [X] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List, Math, Recursion
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Arrays, Sorting
 - [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Arrays, Divide and Conquer, Dynamic Programming
 - [X] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Hash Table, Strings, Sliding Window
