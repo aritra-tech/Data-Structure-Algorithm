@@ -10,7 +10,7 @@ public class largest_subarray {
     }
     public static int maxLen(int[] arr){
 
-        HashMap<Integer,Integer> map = new HashMap<Integer,Integer>();
+        HashMap<Integer,Integer> map = new HashMap<>();
 
         int sum = 0;
         int length = 0;
