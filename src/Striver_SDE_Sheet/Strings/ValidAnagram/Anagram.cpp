@@ -10,7 +10,7 @@
 8. Otherwise return false.
 
 */
-
+/*
 #include <iostream>
 using namespace std;
 
@@ -34,7 +34,7 @@ int main() {
     cout << Solution().isAnagram("ab", "a") << endl;
 
     return 0;
-}
+}*/
 
 // Time Complexity: O(nlogn)
 // Space Complexity: O(1)
